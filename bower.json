@@ -1,0 +1,20 @@
+{
+  "name": "simple-resume",
+  "version": "0.0.0",
+  "authors": [
+    "Vineeth N V <vineeth1991@gmail.com>"
+  ],
+  "description": "Simple resume - Vineeth N V",
+  "main": "index.html",
+  "license": "VNV",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "fontawesome": "~4.3.0"
+  }
+}
